@@ -1,4 +1,4 @@
-<!--Hi, I'm Christy 👋
+Hi, I'm Christy 👋
 
 I build and evaluate LLM-powered automation, with a focus on making AI outputs reliable. MSc Data Science, AI & Digital Business student at GISMA University of Applied Sciences based in Berlin.
 
